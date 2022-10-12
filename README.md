@@ -1,9 +1,5 @@
 
 <div id="header" align="center">
-  <img src="https://flynndata.org/static/homepage/images/full_logo_2.png" width="600" />
-</div>
-
-<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -23,3 +19,5 @@
 
 ## Hi! I'm Flynn, a scientist by day and programmer by night. 
 I started in `C++`, which was a brutal beginning, but it helped give me a nice building block to learn Python, JavaScript, HTML and CSS.
+
+I'm currently working on a portfolio website using nuxt.js/vue.js and Flask. 
