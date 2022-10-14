@@ -20,4 +20,9 @@
 ## Hi! I'm Flynn, a scientist by day and programmer by night. 
 I started in `C++`, which was a brutal beginning, but it helped give me a nice building block to learn Python, JavaScript, HTML and CSS.
 
-I'm currently working on a portfolio website using nuxt.js/vue.js and Flask. 
+I'm currently working on a portfolio website using nuxt.js/vue.js and Flask.  
+
+Currently, my website based off of this repository:
+<a href="https://github.com/NeuroPyPy/vue-nuxt-portfolio">
+    <img src="https://badgen.net/badge/icon/github?icon=github&label" alt="github"/>
+  </a>
