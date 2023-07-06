@@ -18,9 +18,9 @@
 </div>
 Hi, I'm Flynn.
 
-I'm a passionate and enthusiastic software engineer who loves programming and pushing the boundaries of my comfort zone. My journey started with C++, a challenging but ~~rewarding~~ mostly challanging first step, and it has now expanded to Python, Typescript, HTML/CSS and several full-stack development tools. If it can be learned, I want to learn it. 
+Software enthusiast who loves programming and pushing the boundaries of my comfort zone. My journey started with C++, a challenging but ~~rewarding~~ mostly challanging first step, and it has now expanded to Python, Rust, Javascript, and several web dev tools. If it can be learned, I want to learn it. 
 
-With a knack for languages like `Rust`, `Python`, and `TypeScript`, I've worked on a multitude of projects ranging from developing AI pipelines and C++ GUI plugins to crafting Rust vectorization algorithms. My experience in building web servers for data sharing and database integration has allowed me to create comprehensive software solutions. I'm always ready to absorb new knowledge and techniques to refine my craft.
+I've developed AI pipelines, made GUI plugins and crafted Rust vectorization algorithms. I'm always ready to absorb new knowledge and techniques to refine my craft.
 
 Currently, I'm using my skills to develop a portfolio website using Nuxt.js/Vue.js and Flask. You can check out <a href=https://flynno.dev> my website here. </a>
 What I'm working on 🛠
