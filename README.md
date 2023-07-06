@@ -20,17 +20,15 @@ Hi, I'm Flynn.
 
 Software enthusiast who loves programming and pushing the boundaries of my comfort zone. My journey started with C++, a challenging but ~~rewarding~~ mostly challanging first step, and it has now expanded to Python, Rust, Javascript, and several web dev tools. If it can be learned, I want to learn it. 
 
-I've developed AI pipelines, made GUI plugins and crafted Rust vectorization algorithms. I'm always ready to absorb new knowledge and techniques to refine my craft.
+- [This project](https://github.com/NeuroPyPy/metricspace) is one of my favorites, using rust to speed up a time-series classification algorithm.
+- [A GUI plugin](https://github.com/NeuroPyPy/PremierSuite) for rocket league.
+- [My portfolio website,](https://github.com/NeuroPyPy/FlynnPortfolio) handmade with Vue.js.
+- Several data-analysis projects, for [electrophysiology](https://github.com/NeuroPyPy/neuroexplore) and [calcium imaging](https://github.com/NeuroPyPy/canalysis).
 
 Currently, I'm using my skills to develop a portfolio website using Nuxt.js/Vue.js and Flask. You can check out <a href=https://flynno.dev> my website here. </a>
-What I'm working on 🛠
+Some other things I'm working on: 
 
-- 100% Rusty back-end / front end messaging and communication server
-- Neural classification algorithm with rust vectorization functions using Pyo3/Maturin 
-- Python based data sharing server through google cloud platform
-- Firestore / vuejs database integration 
-- Open source contributions whenever I can!
+- 100% Rusty back-end / front end messaging and communication server, [Fluke](https://github.com/LukeBrandon/fluke)
+- [Python based data sharing server](https://github.com/NeuroPyPy/neuroexplore) through google cloud platform 
 
  <a href=https://flynno.dev/experience/projects> Some snippets of my favorite projects </a>
-
-Let's connect! Feel free to reach out if you have any questions or just want to chat about programming and technology.
